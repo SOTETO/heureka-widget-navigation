@@ -1,13 +1,13 @@
 {
-  "name": "vca-widget-navigation",
-  "version": "0.2.13",
-  "description": "Implements a widget showing the menu of the Pool².",
-  "author": "Johann Sell",
-  "main": "dist/vca-widget-navigation.common.js",
-  "module": "dist/vca-widget-navigation.esm.js",
-  "browser": "dist/vca-widget-navigation.js",
-  "unpkg": "dist/vca-widget-navigation.js",
-  "style": "dist/vca-widget-navigation.css",
+  "name": "heureka-widget-navigation",
+  "version": "0.2.15",
+  "description": "Implements a widget showing the menu of the Pool², an instance of the Heureka! architecture.",
+  "author": "Johann Sell <sell@informatik.hu-berlin.de>",
+  "main": "dist/heureka-widget-navigation.common.js",
+  "module": "dist/heureka-widget-navigation.esm.js",
+  "browser": "dist/heureka-widget-navigation.js",
+  "unpkg": "dist/heureka-widget-navigation.js",
+  "style": "dist/heureka-widget-navigation.css",
   "files": [
     "dist",
     "src"
@@ -121,12 +121,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viva-con-Agua/vca-widget-navigation"
+    "url": "git+https://github.com/SOTETO/heureka-widget-navigation"
   },
   "bugs": {
-    "url": "https://github.com/Viva-con-Agua/vca-widget-navigation/issues"
+    "url": "https://github.com/SOTETO/heureka-widget-navigation/issues"
   },
-  "homepage": "https://github.com/Viva-con-Agua/vca-widget-navigation#readme",
+  "homepage": "https://github.com/SOTETO/heureka-widget-navigation#readme",
   "license": {
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/mit-license.php"

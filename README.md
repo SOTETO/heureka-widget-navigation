@@ -1,8 +1,8 @@
 # WidgetNavigation
 
-[![npm](https://img.shields.io/npm/v/vca-widget-navigation.svg)](https://www.npmjs.com/package/vca-widget-navigation) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+[![npm](https://img.shields.io/npm/v/heureka-widget-navigation.svg)](https://www.npmjs.com/package/heureka-widget-navigation) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-> Implements a widget showing the menu of the Pool².
+> Implements a widget showing the menu of the Pool², an instance of the Heureka! architecture.
 
 ## Widgets
 This package implements the following widgets. These widgets supporting a consistent navigation of Viva con Aguas Pool².

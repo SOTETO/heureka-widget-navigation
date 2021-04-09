@@ -2,15 +2,15 @@
   <div class="footer-container vca-shadow-inverted">
     <div class="footer-row">
       <p class="footer-center">
-          <a :title="$vcaI18n.t('nav.labels.footer.termsOfUse.description')" href="/pool/nutzungsbedingungen/">
-            {{ $vcaI18n.t('nav.labels.footer.termsOfUse.label') }}
-          </a>
-          <span class="footer-link">&nbsp;|&nbsp;</span>
-          <a :title="$vcaI18n.t('nav.labels.footer.privacyStatement.description')" href="/pool/datenschutzerklaerung/">
+          <!-- <a :title="$vcaI18n.t('nav.labels.footer.termsOfUse.description')" href="/pool/nutzungsbedingungen/"> -->
+            <!-- {{ $vcaI18n.t('nav.labels.footer.termsOfUse.label') }} -->
+          <!-- </a> -->
+          <!-- <span class="footer-link">&nbsp;|&nbsp;</span> -->
+          <a :title="$vcaI18n.t('nav.labels.footer.privacyStatement.description')" href="https://www.hu-berlin.de/de/hu/impressum/datenschutzerklaerung">
             {{ $vcaI18n.t('nav.labels.footer.privacyStatement.label') }}
           </a>
           <span class="footer-link">&nbsp;|&nbsp;</span>
-          <a :title="$vcaI18n.t('nav.labels.footer.imprint.description')" href="https://www.vivaconagua.org/impressum">
+          <a :title="$vcaI18n.t('nav.labels.footer.imprint.description')" href="https://www.hu-berlin.de/de/hu/impressum">
             {{ $vcaI18n.t('nav.labels.footer.imprint.label') }}
           </a>
       </p>
